@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<manifest>
+  <remove-project path="external/dtc"/>
+  <remove-project path="external/e2fsprogs"/>
+  <remove-project path="external/gptfdisk"/>
+  <remove-project path="external/mksh"/>
+  <remove-project path="external/tinycompress"/>
+  <remove-project path="external/wpa_supplicant_8"/>
+  <remove-project path="external/zstd"/>
+  <remove-project path="hardware/google/pixel"/>
+  <remove-project path="hardware/interfaces"/>
+  <remove-project path="hardware/libhardware"/>
+  <remove-project path="hardware/qcom/wlan"/>
+  <remove-project path="hardware/ril"/>
+  <remove-project path="kernel/configs"/>
+  <remove-project path="packages/modules/common"/>
+  <remove-project path="system/bpf"/>
+  <remove-project path="system/libhidl"/>
+  <remove-project path="system/libziparchive"/>
+  <remove-project path="system/update_engine"/>
+  <remove-project path="system/vold"/>
+</manifest>

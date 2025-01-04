@@ -1430,4 +1430,6 @@
   <project path="vendor/state" name="vendor_state" remote="grapheneos" clone-depth="1" />
   <!-- END open-source projects -->
 
+  <include name="custom/remove.xml" />
+  <include name="custom/lineage.xml" />
 </manifest>
